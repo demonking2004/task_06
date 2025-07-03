@@ -1,6 +1,6 @@
 # task_06
 
-My name is Debneel Roy and this is day 2 of my SQL Developer Internship at Elevate Labs.
+My name is Debneel Roy and this is day 6 of my SQL Developer Internship at Elevate Labs.
 
 Today's task was to write SQL queries with nested logic using subqueries in SELECT, WHERE and FROM.
 
